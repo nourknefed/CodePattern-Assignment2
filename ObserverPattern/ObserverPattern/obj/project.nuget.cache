@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+jy43RVWuXSPNW4GFrEl8aOqHnBm1lSjYhDZHNggzies1HexfqPLe4NnFldi5lquqWnna1LvVwQjVmY3oW3Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Downloads\\Code pattern\\Uppgift2\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

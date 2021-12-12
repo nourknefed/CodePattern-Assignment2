@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kU+pid8fnvj0qYBx1igl6LORRORgc6k2P0vx+9SKzzc7ZGINBQqqQCsNmrtEwLuDci8nEHE67BbKN9LYqWQpIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Downloads\\Code pattern\\Uppgift2\\DecoratorPattern\\DecoratorPatttern\\DecoratorPatttern\\DecoratorPatttern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
